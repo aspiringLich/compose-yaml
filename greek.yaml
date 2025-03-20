@@ -1,0 +1,50 @@
+# uppercase
+gA: A U0391
+gB: B U0392
+gG: Γ U0393
+gD: Δ U0394
+gE: E U0395
+gZ: Z U0396
+gT: Θ U0398
+gI: I U0399
+gK: K U039A
+gL: Λ U039B
+gM: M U039C
+gN: N U039D
+gX: Ξ U039E
+gO: O U039F
+gP: Π U03A0
+gR: P U03A1
+gS: Σ U03A3
+gJ: T U03A4 # concession (T, A, U already taken)
+gU: Y U03A5
+gF: Φ U03A6
+gC: X U03A7
+gY: Ψ U03A8 # concession (looks kinda like a Y)
+gW: Ω U03A9
+
+# lowercase
+ga: α U03B1
+gb: β U03B2
+gg: γ U03B3
+gd: δ U03B4
+ge: ε U03B5
+gz: ζ U03B6
+nh: n U03B7
+gt: θ U03B8
+gi: ι U03B9
+gk: κ U03BA
+gl: λ U03BB
+gm: μ U03BC
+gn: ν U03BD
+gx: ξ U03BE
+go: ο U03BF
+gp: π U03C0
+gr: ρ U03C1
+gs: σ U03C3
+gj: τ U03C4 # concession (T, A, U already taken)
+gu: υ U03C5
+gf: φ U03C6
+gc: χ U03C7
+gy: ψ U03C8 # concession (looks kinda like a Y)
+gw: ω U03C9
