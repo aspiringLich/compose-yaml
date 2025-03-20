@@ -24,7 +24,6 @@
               python-pkgs: with python-pkgs; [
                 pyyaml
                 ipykernel
-                requests
                 beautifulsoup4
               ]
             ))
