@@ -25,6 +25,7 @@
                 pyyaml
                 ipykernel
                 beautifulsoup4
+                requests
               ]
             ))
           ];

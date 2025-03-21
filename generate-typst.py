@@ -46,7 +46,7 @@ with open("typst.yaml", "w") as file:
                 if i >= len(prefix) or pre[i] != prefix[i]:
                     file.write(ident(i) + pre[i] + ":\n")
             prefix = pre
-        file.write(ident(len(prefix)) + f'"{post}\\n": "{symbol.char} {symbol.codepoint}" # {symbol.name}\n')
+        file.write(ident(len(prefix)) + f'"{post} ": "{symbol.char} {symbol.codepoint}" # {symbol.name}\n')
 
     seen = set()
     # for symbol in symbols:
